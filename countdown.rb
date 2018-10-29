@@ -8,4 +8,3 @@ def countdown
   end
 end
 
-countdown
